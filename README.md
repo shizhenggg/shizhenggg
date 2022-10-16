@@ -1,4 +1,4 @@
-### Hi, I'm Shi Zheng, a frontend developer from Singapore 👋🏻
+### Hi, I'm Shi Zheng, a frontend developer from Singapore 🇸🇬 👋🏻
 
 - 🌱 Currently honing my Front-End development skills
 - 💻 Passionate about self-improvement, personal finance & learning
