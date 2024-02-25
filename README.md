@@ -2,7 +2,7 @@
 
 - 🌱 Currently honing my Front-End development skills
 - 💻 Passionate about self-improvement, personal finance & learning
-- 🧗🏼 Recreational bouldering, swimming and running
+- 🧗🏼 Recreational bouldering & gymming
 
 <!--
 **shizhenggg/shizhenggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
